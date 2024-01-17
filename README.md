@@ -56,3 +56,11 @@ If you want to explore the interactive dashboard or reproduce the analysis, foll
 
 6. **Optional:**
    - Modify and enhance the dashboard based on your preferences or add additional analyses
+
+  
+## Contributing
+
+If you'd like to contribute to this project, feel free to submit a pull request. Bug reports, suggestions, and feedback are also welcome.
+
+## License
+This project is licensed under the MIT License. Feel free to use the code and findings in your own projects.
