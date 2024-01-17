@@ -8,7 +8,7 @@ This repository contains a data analysis project focused on Spotify's top songs 
 
 - **Data Source**: [Top Spotify Songs 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023?resource=download)
 - **Tool Used**: Microsoft Power BI
-- **Dashboard**: [Link to Power BI Dashboard](https://github.com/xJoey01x/spotify_dashboard/blob/main/Dashboard%20Screenshot.PNG)
+- **Dashboard**: [Link to Power BI Dashboard](https://github.com/xJoey01x/spotify_analysis_project/blob/main/Dashboard%20Screenshot.PNG)
 
 ## Objective
 
